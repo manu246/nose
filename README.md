@@ -6,4 +6,4 @@ Con NOSE ya nunca olvidarás que restaurantes tienen tus vinos preferidos y adem
  
 # Ayuda
 
-Aquí se puden comentar cosas sobre el proycto
+Aquí se pueden comentar cosas sobre el proycto :)
