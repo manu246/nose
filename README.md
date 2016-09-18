@@ -1,6 +1,9 @@
 # nose
-Es un proyecto que todavía no se en que va a consistir.
+NOSE es la nueva plataforma que te permitirá crear y gestiónar tu propio catálogo de vinos de forma sencilla desde cualquier dispositivo. Además dispondrás de un mapa para localizar tus vinos y comentar cómo los descubriste y podrás compartirlo con tus amigos. 
 
+Con NOSE ya nunca olvidarás que restaurantes tienen tus vinos preferidos y además conocerás qué vinos son los preferidos de tus amigos y dónde los probaron.
+
+ 
 # Ayuda
 
 Aquí se puden comentar cosas sobre el proycto
